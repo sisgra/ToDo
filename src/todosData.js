@@ -13,22 +13,33 @@ const todosData=[
 
     {
         id:3,
-        text:"Clean gecko tank",
+        text:"Clean the kitchen",
         completed:false
     },
 
     {
         id:4,
-        text:"Mow lawn",
+        text:"Gym",
         completed:true
     },
 
     {
         id:5,
-        text:"Catch up on Arrested Developement",
+        text:"Learn React",
         completed:false
     },
 
+    {
+        id:6,
+        text:"Visit the park",
+        completed:false
+    },
+
+    {
+        id:7,
+        text:"Paint",
+        completed:false
+    }
 ]
 
 export default todosData
